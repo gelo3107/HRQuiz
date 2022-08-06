@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HRQuiz:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HRQuiz_jar</output-path>
+    <root id="archive" name="HRQuiz.jar">
+      <element id="module-output" name="HRQuiz" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
